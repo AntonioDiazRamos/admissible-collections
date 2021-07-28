@@ -7,7 +7,7 @@ This paper is authored by Antonio Díaz Ramos and Nadia Mazza.
 
 This paper can be found in arXiv at https://arxiv.org/abs/2005.02658
 
-GAP is a computer algebra system, see here https://www.gap-system.org
+GAP is a computer algebra system https://www.gap-system.org
 
 The term "admissible collection" is defined in Definition 3.6 of the paper above.
 
